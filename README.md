@@ -1,2 +1,2 @@
-# snakeclef2024
-Submission for SnakeCLEF2024
+# SnakeCLEF2024
+Submission for SnakeCLEF2024.
